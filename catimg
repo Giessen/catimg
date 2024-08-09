@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env zsh
 
 ################################################################################
 # catimg script by Eduardo San Martin Morote aka Posva                         #
